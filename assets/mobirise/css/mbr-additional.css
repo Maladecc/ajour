@@ -640,7 +640,7 @@ a:hover {
   height: 61px;
 }
 #scrollToTop a {
-  background: #188ef4;
+  background: #ff4f7b;
 }
 #scrollToTop a i:before {
   content: '';
@@ -681,7 +681,7 @@ a:hover {
   display: block;
 }
 .mbr-arrow a i {
-  color: #188ef4;
+  color: #ff4f7b;
   top: auto !important;
   left: auto !important;
 }
